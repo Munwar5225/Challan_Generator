@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chalan Generator</string>
+    <string name="generate_pdf">Generate PDf</string>
+</resources>
