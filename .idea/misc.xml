@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/ChalanGenerator/app/src/main/res/font/.xml" value="0.175" />
+        <entry key="..\:/ChalanGenerator/app/src/main/res/font/font.xml" value="0.1845703125" />
+        <entry key="..\:/ChalanGenerator/app/src/main/res/font/mukta_vaani.xml" value="0.175" />
         <entry key="..\:/ChalanGenerator/app/src/main/res/layout/activity_main.xml" value="0.27949599083619703" />
       </map>
     </option>
